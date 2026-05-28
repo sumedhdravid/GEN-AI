@@ -1,0 +1,7 @@
+streamlit==1.32.0
+langchain==0.1.11
+langchain-core==0.1.30
+langgraph==0.0.26
+langchain-openai==0.0.8
+pydantic==2.6.3
+pyyaml==6.0.1
