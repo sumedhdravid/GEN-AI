@@ -1,0 +1,25 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# Project-specific database files/data storage
+*.db
+*.sqlite
+data/
+02-research-screener/faiss_index/
+05-semantic-subtitle-search/chroma_db/
+
+# Streamlit specific
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
